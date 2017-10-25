@@ -1,1 +1,4 @@
-/** to be overridden in sub-themes */
+.anchor {
+  padding-top: 60px;
+  margin-top: -60px;
+}
